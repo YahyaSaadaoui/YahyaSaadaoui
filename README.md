@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YahyaSaadaoui
 - 👀 I’m interested in web devloppment
-- 🌱 I’m currently learning seo audit
+- 🌱 I’m currently learning Vuejs3 | Reactjs | Symfony ...etc
 - 📫 How to reach me yahyasaadaoui2019@gmail.com
 
 <!---
