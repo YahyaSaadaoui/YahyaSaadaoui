@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YahyaSaadaoui
 - 👀 I’m interested in web devloppment | frontend/backend devloppment
-- 🌱 I’m currently learning Vuejs3 | Reactjs | Symfony ...etc
+- 🌱 I’m currently developing my skills in Vuejs3 | Reactjs | Symfony ...etc
 - 📫 How to reach me yahyasaadaoui2019@gmail.com
 
 <!---
