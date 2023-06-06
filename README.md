@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 most of my projects are available at 📄 Know about my experiences [yahyasaadaoui.me](yahyasaadaoui.me)
-
 - 💬 Ask me about **my experience or anything about front-end dev**
 
 - 📫 How to reach me **yahyasaadaoui2019@gmail.com**
