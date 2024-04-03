@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahyasaadaoui" alt="yahyasaadaoui" /></a> </p>
 
-- 🔭 I’m currently working on looking for jobs | recruted | an intern
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently improving in the new version or React , **React 19**
 
 - 💬 Ask me about **my experience or anything about front-end dev**
 
