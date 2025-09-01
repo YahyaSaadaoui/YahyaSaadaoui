@@ -7,10 +7,14 @@ Software Engineer | Full-Stack Developer | Fintech Enthusiast
   <a href="https://github.com/YahyaSaadaoui">
     <img src="https://komarev.com/ghpvc/?username=yahyasaadaoui&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=yahyasaadaoui&theme=onedark&margin-w=8&row=1&column=6" alt="trophies" />
   </a>
 </p>
+
 
 ---
 
@@ -34,8 +38,13 @@ Software Engineer | Full-Stack Developer | Fintech Enthusiast
 ---
 
 ### 🛠️ Languages & Tools
+### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,angular,nextjs,nodejs,python,php,laravel,mysql,postgres,mongodb,docker,kubernetes,aws,git,figma,tailwind&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,cpp,cs,html,css&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,kafka,laravel,symfony,vue,react,angular,nextjs&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,sqlite&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,bitbucket,figma,tailwind,bootstrap&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=gradle,maven,vscode,idea,photoshop,illustrator,premiere&perline=9" />
 </p>
 
 ---
