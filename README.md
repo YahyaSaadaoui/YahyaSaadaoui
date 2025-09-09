@@ -38,7 +38,6 @@ Software Engineer | Full-Stack Developer | Fintech Enthusiast
 ---
 
 ### 🛠️ Languages & Tools
-### 🛠️ Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,cpp,cs,html,css&perline=9" /><br/>
   <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,kafka,laravel,symfony,vue,react,angular,nextjs&perline=9" /><br/>
