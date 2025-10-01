@@ -61,10 +61,10 @@ Software Engineer | Full-Stack Developer | Fintech Enthusiast
 ---
 
 ### 🏆 Highlights
-- 💡 Migrated **legacy C payment switch** into a **Java Spring Boot microservices** architecture (HPS Internship):contentReference[oaicite:1]{index=1}  
-- 🔗 Implemented **Kafka-based async communication** & microservices with **Eureka, JWT Security, AWS S3**:contentReference[oaicite:2]{index=2}  
-- 🖥️ Delivered **freelance full-stack projects** using **React, Laravel, Vue.js, AWS AI APIs**:contentReference[oaicite:3]{index=3}  
-- 🎨 Built **Angular dashboards & role-based admin panels** with responsive UX:contentReference[oaicite:4]{index=4}  
+- 💡 Migrated **legacy C payment switch** into a **Java Spring Boot microservices** architecture (HPS Internship).  
+- 🔗 Implemented **Kafka-based async communication** & microservices with **Eureka, JWT Security, AWS S3**.
+- 🖥️ Delivered **freelance full-stack projects** using **React, Laravel, Vue.js, AWS AI APIs**.
+- 🎨 Built **Angular dashboards & role-based admin panels** with responsive UX.
 
 ---
 
