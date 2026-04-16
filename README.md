@@ -39,12 +39,18 @@ Software Engineer | Full-Stack Developer | Fintech Enthusiast
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,cpp,cs,html,css&perline=9" /><br/>
+  💡 <b>Main Focus:</b><br/><img src="https://skillicons.dev/icons?i=c,postgres&perline=9"/><br/>
+</p>
+<p align="left">
+  <b>Am also Experienced & Familiar with :</b><br/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,php,cs,html,css&perline=9" /><br/>
   <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,kafka,laravel,symfony,vue,react,angular,nextjs&perline=9" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,sqlite&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,sqlite&perline=9" /><br/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,bitbucket,figma,tailwind,bootstrap&perline=9" /><br/>
   <img src="https://skillicons.dev/icons?i=gradle,maven,vscode,idea,photoshop,illustrator,premiere&perline=9" />
 </p>
+
+
 
 ---
 
