@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yahya Saadaoui</h1>
-<h3 align="center">
-Software Engineer | Full-Stack Developer | Fintech Enthusiast
-</h3>
+<h3 align="center">Software Engineer focused on payment systems, backend platforms, and practical full-stack products</h3>
 
 <p align="center">
   <a href="https://github.com/YahyaSaadaoui">
@@ -10,26 +8,6 @@ Software Engineer | Full-Stack Developer | Fintech Enthusiast
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yahyasaadaoui&theme=onedark&margin-w=8&row=1&column=6" alt="trophies" />
-  </a>
-</p>
-
-
----
-
-### 🚀 About Me  
-- 🎓 **Software Engineer** (EMSI Casablanca, 2025)  
-- 💻 Experienced in **Java/Spring Boot, Kafka, microservices, and ISO 8583 protocols**  
-- 🌐 Skilled in **Angular, React, Next.js, Tailwind** for front-end development  
-- ☁️ Comfortable with **Docker, Kubernetes, AWS** for DevOps & deployment  
-- 🔐 Worked on **Visa VAU & Mastercard ABU APIs** with mutual TLS & message-level encryption  
-- ⚡ Passionate about **clean architecture, scalability, and maintainable code**  
-
----
-
-### 📫 How to Reach Me
-<p align="left">
   <a href="mailto:yahyasaadaoui2019@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/yahyasaadaoui" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://yahyasaadaoui.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -37,24 +15,58 @@ Software Engineer | Full-Stack Developer | Fintech Enthusiast
 
 ---
 
+### 🚀 What I'm Working On Now
+
+- Building and improving **payment switch / monetics systems** around authorization, channels, reconciliation, reversal, monitoring, and secure transaction flows.
+- Working with **Java, Spring Boot, Gradle, Kafka, Docker, Kubernetes, Linux, SQL/Oracle, Git, Jenkins, SonarQube, Nexus, Prometheus, and Grafana** in backend and platform environments.
+- Deepening my fintech stack around **ISO 8583, ATM/POS flows, EMV concepts, HSM/security utilities, integration testing, and distributed microservices**.
+- Building side projects with **Next.js, React, TypeScript, Tailwind, Radix/shadcn UI, AI SDK/OpenAI, ASP.NET Core, EF Core, CQRS, SQL Server, and Docker Compose**.
+- I care about **clean architecture, readable code, reliable services, and tools that make real workflows faster**.
+
+---
+
+### 🧠 Current Focus Areas
+
+| Area | What I use |
+| --- | --- |
+| Payment systems | PowerCARD-style switch platforms, ISO 8583, authorization, reversal, reconciliation, ATM/POS, EMV, HSM/security flows |
+| Backend engineering | Java, Spring Boot, Gradle, Kafka, REST APIs, microservices, SQL/Oracle, .NET 9, EF Core, MediatR/CQRS |
+| Frontend/product work | React, Next.js, TypeScript, Vite, Tailwind CSS, shadcn/ui, Radix UI, dashboards, admin tools |
+| DevOps/platform | Docker, Kubernetes, Docker Compose, Linux, GitHub Actions, Jenkins, SonarQube, Nexus, Prometheus, Grafana |
+| AI tooling | OpenAI / AI SDK integrations, agentic frontends, workflow automation, fintech assistants |
+
+---
+
 ### 🛠️ Languages & Tools
+
 <p align="left">
-  💡 <b>Main Focus:</b><br/><img src="https://skillicons.dev/icons?i=c,postgres&perline=9"/><br/>
-</p>
-<p align="left">
-  <b>Am also Experienced & Familiar with :</b><br/>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,php,cs,html,css&perline=9" /><br/>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,kafka,laravel,symfony,vue,react,angular,nextjs&perline=9" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,sqlite&perline=9" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,bitbucket,figma,tailwind,bootstrap&perline=9" /><br/>
-  <img src="https://skillicons.dev/icons?i=gradle,maven,vscode,idea,photoshop,illustrator,premiere&perline=9" />
+  <b>Daily / job stack</b><br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,gradle,kafka,docker,kubernetes,linux,bash,jenkins,prometheus,grafana&perline=11" />
 </p>
 
+<p align="left">
+  <b>Full-stack and product stack</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,dotnet,cs,postgres,mysql,git,github,githubactions&perline=13" />
+</p>
 
+<p align="left">
+  <b>Also comfortable with</b><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,php,laravel,symfony,angular,vue,mongodb,firebase,aws,figma&perline=12" />
+</p>
+
+---
+
+### 📌 Recent Direction
+
+- **Payment switch engineering:** working around modern switch modules, backend services, Kafka-based communication, containerized environments, and observability.
+- **Fintech automation:** experimenting with AI-assisted reversal, reconciliation, issue tracking, and internal operations tools.
+- **Clean architecture:** building maintainable systems with clear boundaries, validation, domain logic, and testable application layers.
+- **Frontend systems:** shipping practical dashboards and admin interfaces with React, Next.js, TypeScript, Tailwind, and component systems.
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yahyasaadaoui&show_icons=true&count_private=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyasaadaoui&layout=compact&langs_count=8&theme=tokyonight" height="165"/>
@@ -67,11 +79,14 @@ Software Engineer | Full-Stack Developer | Fintech Enthusiast
 ---
 
 ### 🏆 Highlights
-- 💡 Migrated **legacy C payment switch** into a **Java Spring Boot microservices** architecture (HPS Internship).  
-- 🔗 Implemented **Kafka-based async communication** & microservices with **Eureka, JWT Security, AWS S3**.
-- 🖥️ Delivered **freelance full-stack projects** using **React, Laravel, Vue.js, AWS AI APIs**.
-- 🎨 Built **Angular dashboards & role-based admin panels** with responsive UX.
+
+- Worked on **payment switch and monetics platforms** with Java/Spring Boot microservices, Gradle, Kafka, Docker, and Kubernetes.
+- Built and maintained **full-stack apps** with React, Next.js, TypeScript, Tailwind, .NET, SQL Server, and Docker.
+- Developed projects around **issue tracking, fintech reconciliation/reversal ideas, AI-assisted frontends, and dashboard/admin experiences**.
+- Comfortable moving between **backend systems, frontend UX, DevOps workflows, and database-heavy payment logic**.
 
 ---
 
-⚡ *Fun fact*: I aim to be the next **top-tier front-end + backend hybrid dev** 
+<p align="center">
+  <b>Currently building at the intersection of fintech, backend systems, and useful AI-powered tools.</b>
+</p>
