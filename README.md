@@ -37,6 +37,18 @@
 
 ---
 
+### 📌 Featured Projects
+
+| Project | What it shows |
+| --- | --- |
+| [monetic-ai-reversal](https://github.com/YahyaSaadaoui/monetic-ai-reversal) | AI-assisted fintech demo for card authorization reversal eligibility, rules, batch processing, and audit trails. |
+| [monetic-ai-reconciliation](https://github.com/YahyaSaadaoui/monetic-ai-reconciliation) | Reconciliation-oriented automation experiments for payment operations and exception handling. |
+| [issue-tracking-system](https://github.com/YahyaSaadaoui/issue-tracking-system) | Clean Architecture issue tracker with .NET 9, EF Core, MediatR/CQRS, React, Vite, and Docker Compose. |
+| [ExpensesTracker](https://github.com/YahyaSaadaoui/ExpensesTracker) | Full-stack Next.js personal-finance dashboard with Supabase, reports, import/export, and charts. |
+| [Nettimer](https://github.com/YahyaSaadaoui/Nettimer) | Python automation tool for scheduled web extraction, local processing, Telegram notifications, and a desktop widget flow. |
+
+---
+
 ### 🛠️ Languages & Tools
 
 <p align="left">
