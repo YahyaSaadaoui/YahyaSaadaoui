@@ -80,12 +80,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yahyasaadaoui&show_icons=true&count_private=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyasaadaoui&layout=compact&langs_count=8&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YahyaSaadaoui&theme=tokyonight" alt="GitHub contribution details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yahyasaadaoui&theme=tokyonight&hide_border=false" alt="streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YahyaSaadaoui&theme=tokyonight" height="165" alt="GitHub account stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YahyaSaadaoui&theme=tokyonight" height="165" alt="Repositories by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YahyaSaadaoui&theme=tokyonight" height="165" alt="Commits by language" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YahyaSaadaoui&theme=tokyonight&starting_year=2022" alt="Contribution totals and streaks" />
 </p>
 
 ---
