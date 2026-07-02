@@ -1,109 +1,82 @@
-<h1 align="center">Hi 👋, I'm Yahya Saadaoui</h1>
-<h3 align="center">Software Engineer focused on payment systems, backend platforms, and practical full-stack products</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/YahyaSaadaoui">
-    <img src="https://komarev.com/ghpvc/?username=yahyasaadaoui&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+<h1>Yahya Saadaoui</h1>
+
+<p><strong>Implementation Engineer at HPS</strong></p>
+<p>Payment systems / backend platforms / full-stack products</p>
+
+<p>
+  <a href="https://yahyasaadaoui.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/yahyasaadaoui"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yahyasaadaoui2019@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/YahyaSaadaoui"><img src="https://komarev.com/ghpvc/?username=YahyaSaadaoui&label=Profile+views&color=000000&style=flat-square" alt="Profile views" /></a>
 </p>
 
-<p align="center">
-  <a href="mailto:yahyasaadaoui2019@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yahyasaadaoui" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yahyasaadaoui.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+</div>
 
 ---
 
-### 🚀 What I'm Working On Now
+## About
 
-- Building and improving **payment switch / monetics systems** around authorization, channels, reconciliation, reversal, monitoring, and secure transaction flows.
-- Working with **Java, Spring Boot, Gradle, Kafka, Docker, Kubernetes, Linux, SQL/Oracle, Git, Jenkins, SonarQube, Nexus, Prometheus, and Grafana** in backend and platform environments.
-- Deepening my fintech stack around **ISO 8583, ATM/POS flows, EMV concepts, HSM/security utilities, integration testing, and distributed microservices**.
-- Building side projects with **Next.js, React, TypeScript, Tailwind, Radix/shadcn UI, AI SDK/OpenAI, ASP.NET Core, EF Core, CQRS, SQL Server, and Docker Compose**.
-- I care about **clean architecture, readable code, reliable services, and tools that make real workflows faster**.
+I build reliable software for payment operations and transaction processing. My day-to-day work spans switch platforms, backend services, integration flows, databases, containers, and observability. Outside work, I build focused fintech and full-stack products with clean architecture and practical user interfaces.
+
+`Casablanca, Morocco` `Fintech` `Distributed systems` `Product engineering`
 
 ---
 
-### 🧠 Current Focus Areas
+## Current Work
 
-| Area | What I use |
+- Payment authorization, reversal, reconciliation, ATM/POS, ISO 8583, EMV, and HSM-related flows.
+- Java and Spring Boot services with Kafka, Gradle, SQL/Oracle, Docker, Kubernetes, and Linux.
+- Internal tooling, monitoring, integration testing, and operational automation.
+- Side projects with React, Next.js, TypeScript, .NET, EF Core, SQL Server, and AI integrations.
+
+---
+
+## Stack
+
+| Area | Technologies |
 | --- | --- |
-| Payment systems | PowerCARD-style switch platforms, ISO 8583, authorization, reversal, reconciliation, ATM/POS, EMV, HSM/security flows |
-| Backend engineering | Java, Spring Boot, Gradle, Kafka, REST APIs, microservices, SQL/Oracle, .NET 9, EF Core, MediatR/CQRS |
-| Frontend/product work | React, Next.js, TypeScript, Vite, Tailwind CSS, shadcn/ui, Radix UI, dashboards, admin tools |
-| DevOps/platform | Docker, Kubernetes, Docker Compose, Linux, GitHub Actions, Jenkins, SonarQube, Nexus, Prometheus, Grafana |
-| AI tooling | OpenAI / AI SDK integrations, agentic frontends, workflow automation, fintech assistants |
+| Payments | ISO 8583, authorization, reversal, reconciliation, ATM/POS, EMV, HSM flows |
+| Backend | Java, Spring Boot, Gradle, Kafka, REST APIs, microservices, .NET 9, EF Core, CQRS |
+| Frontend | TypeScript, React, Next.js, Vite, Tailwind CSS, Radix UI, shadcn/ui |
+| Data | Oracle, SQL Server, PostgreSQL, MySQL, MongoDB |
+| Platform | Docker, Kubernetes, Linux, GitHub Actions, Jenkins, SonarQube, Nexus |
+| Observability | Prometheus, Grafana, structured logging, service health checks |
+| AI | OpenAI APIs, AI SDK, agentic interfaces, workflow automation |
 
 ---
 
-### 📌 Featured Projects
+## Selected Work
 
-| Project | What it shows |
-| --- | --- |
-| [monetic-ai-reversal](https://github.com/YahyaSaadaoui/monetic-ai-reversal) | AI-assisted fintech demo for card authorization reversal eligibility, rules, batch processing, and audit trails. |
-| [monetic-ai-reconciliation](https://github.com/YahyaSaadaoui/monetic-ai-reconciliation) | Reconciliation-oriented automation experiments for payment operations and exception handling. |
-| [issue-tracking-system](https://github.com/YahyaSaadaoui/issue-tracking-system) | Clean Architecture issue tracker with .NET 9, EF Core, MediatR/CQRS, React, Vite, and Docker Compose. |
-| [ExpensesTracker](https://github.com/YahyaSaadaoui/ExpensesTracker) | Full-stack Next.js personal-finance dashboard with Supabase, reports, import/export, and charts. |
-| [Nettimer](https://github.com/YahyaSaadaoui/Nettimer) | Python automation tool for scheduled web extraction, local processing, Telegram notifications, and a desktop widget flow. |
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <b>Daily / job stack</b><br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,gradle,kafka,docker,kubernetes,linux,bash,jenkins,prometheus,grafana&perline=11" />
-</p>
-
-<p align="left">
-  <b>Full-stack and product stack</b><br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,dotnet,cs,postgres,mysql,git,github,githubactions&perline=13" />
-</p>
-
-<p align="left">
-  <b>Also comfortable with</b><br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,php,laravel,symfony,angular,vue,mongodb,firebase,aws,figma&perline=12" />
-</p>
+| Project | Scope | Stack |
+| --- | --- | --- |
+| [monetic-ai-reversal](https://github.com/YahyaSaadaoui/monetic-ai-reversal) | Reversal eligibility, rules, batch processing, and audit trails | Python, FastAPI, React |
+| [monetic-ai-reconciliation](https://github.com/YahyaSaadaoui/monetic-ai-reconciliation) | Payment reconciliation and exception handling | Python, FastAPI, React |
+| [issue-tracking-system](https://github.com/YahyaSaadaoui/issue-tracking-system) | Clean Architecture issue and workflow tracking | .NET 9, CQRS, React |
+| [ExpensesTracker](https://github.com/YahyaSaadaoui/ExpensesTracker) | Personal finance, reporting, import/export, and charts | Next.js, Supabase |
+| [Nettimer](https://github.com/YahyaSaadaoui/Nettimer) | Scheduled extraction, processing, notifications, and desktop data | Python, Playwright |
 
 ---
 
-### 📌 Recent Direction
-
-- **Payment switch engineering:** working around modern switch modules, backend services, Kafka-based communication, containerized environments, and observability.
-- **Fintech automation:** experimenting with AI-assisted reversal, reconciliation, issue tracking, and internal operations tools.
-- **Clean architecture:** building maintainable systems with clear boundaries, validation, domain logic, and testable application layers.
-- **Frontend systems:** shipping practical dashboards and admin interfaces with React, Next.js, TypeScript, Tailwind, and component systems.
-
----
-
-### 📊 GitHub Stats
+## GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YahyaSaadaoui&theme=tokyonight" alt="GitHub contribution details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YahyaSaadaoui&theme=github_dark" width="100%" alt="GitHub contribution details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YahyaSaadaoui&theme=tokyonight" height="165" alt="GitHub account stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YahyaSaadaoui&theme=tokyonight" height="165" alt="Repositories by language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YahyaSaadaoui&theme=tokyonight" height="165" alt="Commits by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YahyaSaadaoui&theme=github_dark" height="165" alt="GitHub account statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YahyaSaadaoui&theme=github_dark" height="165" alt="Repositories by language" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YahyaSaadaoui&theme=tokyonight&starting_year=2022" alt="Contribution totals and streaks" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YahyaSaadaoui&theme=github_dark" height="165" alt="Commits by language" />
+  <img src="https://streak-stats.demolab.com?user=YahyaSaadaoui&background=000000&border=333333&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A1A1AA&sideLabels=A1A1AA&dates=71717A&starting_year=2022" height="165" alt="Contribution totals and streaks" />
 </p>
 
 ---
 
-### 🏆 Highlights
-
-- Worked on **payment switch and monetics platforms** with Java/Spring Boot microservices, Gradle, Kafka, Docker, and Kubernetes.
-- Built and maintained **full-stack apps** with React, Next.js, TypeScript, Tailwind, .NET, SQL Server, and Docker.
-- Developed projects around **issue tracking, fintech reconciliation/reversal ideas, AI-assisted frontends, and dashboard/admin experiences**.
-- Comfortable moving between **backend systems, frontend UX, DevOps workflows, and database-heavy payment logic**.
-
----
-
-<p align="center">
-  <b>Currently building at the intersection of fintech, backend systems, and useful AI-powered tools.</b>
-</p>
+<div align="center">
+  <sub>Building dependable systems for payments, operations, and useful software products.</sub>
+</div>
