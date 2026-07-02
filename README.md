@@ -62,17 +62,37 @@ I build reliable software for payment operations and transaction processing. My 
 ## GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YahyaSaadaoui&theme=github_dark" width="100%" alt="GitHub contribution details" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YahyaSaadaoui&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YahyaSaadaoui&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YahyaSaadaoui&theme=github" width="100%" alt="GitHub contribution details" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YahyaSaadaoui&theme=github_dark" height="165" alt="GitHub account statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YahyaSaadaoui&theme=github_dark" height="165" alt="Repositories by language" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YahyaSaadaoui&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YahyaSaadaoui&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YahyaSaadaoui&theme=github" height="165" alt="GitHub account statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YahyaSaadaoui&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YahyaSaadaoui&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YahyaSaadaoui&theme=github" height="165" alt="Repositories by language" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YahyaSaadaoui&theme=github_dark" height="165" alt="Commits by language" />
-  <img src="https://streak-stats.demolab.com?user=YahyaSaadaoui&background=000000&border=333333&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A1A1AA&sideLabels=A1A1AA&dates=71717A&starting_year=2022" height="165" alt="Contribution totals and streaks" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YahyaSaadaoui&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YahyaSaadaoui&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YahyaSaadaoui&theme=github" height="165" alt="Commits by language" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YahyaSaadaoui&background=000000&border=333333&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A1A1AA&sideLabels=A1A1AA&dates=71717A&starting_year=2022" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=YahyaSaadaoui&background=FFFFFF&border=EAEAEA&stroke=EAEAEA&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=666666&sideLabels=666666&dates=888888&starting_year=2022" />
+    <img src="https://streak-stats.demolab.com?user=YahyaSaadaoui&background=FFFFFF&border=EAEAEA&stroke=EAEAEA&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=666666&sideLabels=666666&dates=888888&starting_year=2022" height="165" alt="Contribution totals and streaks" />
+  </picture>
 </p>
 
 ---
