@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/profile-terminal-card.png" alt="Yahya Saadaoui terminal profile card" width="100%" />
-</p>
-
 <div align="center">
 
 <h1>Yahya Saadaoui</h1>
