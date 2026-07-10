@@ -1,99 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1676" height="734" viewBox="0 0 1676 734">
+<svg xmlns="http://www.w3.org/2000/svg" width="2012" height="870" viewBox="0 0 2012 870">
 <rect width="100%" height="100%" rx="18" fill="#0d1117"/>
-<rect x="8" y="8" width="1660" height="718" rx="18" fill="none" stroke="#30363d" stroke-width="2"/>
-<style>text{font-family:Consolas,Menlo,Monaco,monospace;font-size:18px;white-space:pre}</style>
-<text x="28" y="44" fill="#a6adb8">                                         #%%%@@%%%%%#                                               </text>
-<text x="1058" y="44" fill="#a6adb8">yahya@github ----------------------------------------------</text>
-<text x="28" y="66" fill="#a6adb8">                                  %%%@@@@@@%@@@@@@@@@%@%%%%%                                        </text>
-<text x="1058" y="66" fill="#d19a66">OS:</text>
-<text x="1088" y="66" fill="#555d68"> ..................... </text>
-<text x="1318" y="66" fill="#8ab4f8">Windows 10, Android, Linux</text>
-<text x="28" y="88" fill="#a6adb8">                                 %%%@@@@@@%%%%%%%%%%%@@%%%%%%#                                      </text>
-<text x="1058" y="88" fill="#d19a66">Uptime:</text>
-<text x="1128" y="88" fill="#555d68"> .......................... </text>
-<text x="1408" y="88" fill="#8ab4f8">building since 2022</text>
-<text x="28" y="110" fill="#a6adb8">                              %%@@%@@@%%%%%%%%%%%%%%%%%%%%%%%%%%                                    </text>
-<text x="1058" y="110" fill="#d19a66">Host:</text>
-<text x="1108" y="110" fill="#555d68"> ............................. </text>
-<text x="1418" y="110" fill="#8ab4f8">HPS Technologies</text>
-<text x="28" y="132" fill="#a6adb8">                            %%%%%%*++=======================+#%%%%                                  </text>
-<text x="1058" y="132" fill="#d19a66">Kernel:</text>
-<text x="1128" y="132" fill="#555d68"> ................... </text>
-<text x="1338" y="132" fill="#8ab4f8">Implementation Engineer</text>
-<text x="28" y="154" fill="#a6adb8">                            %%%%%*+=========================+*#%%%                                  </text>
-<text x="1058" y="154" fill="#d19a66">IDE:</text>
-<text x="1098" y="154" fill="#555d68"> ................. </text>
-<text x="1288" y="154" fill="#8ab4f8">IntelliJ IDEA, VSCode, Cursor</text>
-<text x="28" y="176" fill="#a6adb8">                            %%###*+=======================++++**##                                  </text>
-<text x="28" y="198" fill="#a6adb8">                            ####*+++=======================+++++**                                  </text>
-<text x="28" y="220" fill="#a6adb8">                            *****###*+==+##%%#***#####****++**%%%#                                  </text>
-<text x="1058" y="220" fill="#d19a66">Languages.Programming:</text>
-<text x="1278" y="220" fill="#555d68"> .... </text>
-<text x="1338" y="220" fill="#8ab4f8">Java, Python, TypeScript, C#</text>
-<text x="28" y="242" fill="#a6adb8">                             -=##%#**##*%%#++*%+==*%#**##**#***%++++                                </text>
-<text x="1058" y="242" fill="#d19a66">Languages.Computer:</text>
-<text x="1248" y="242" fill="#555d68"> ........ </text>
-<text x="1348" y="242" fill="#8ab4f8">HTML, CSS, SQL, JSON, YAML</text>
-<text x="28" y="264" fill="#a6adb8">                            +++++*********+++**===+#*++++++++++*+=+                                 </text>
-<text x="1058" y="264" fill="#d19a66">Languages.Real:</text>
-<text x="1208" y="264" fill="#555d68"> ............ </text>
-<text x="1348" y="264" fill="#8ab4f8">Arabic, French, English</text>
-<text x="28" y="286" fill="#a6adb8">                             ++++++++*++++***+=====++*******+++===++                                </text>
-<text x="28" y="308" fill="#a6adb8">                              +===++=======++*##***##**+++++++=====                                 </text>
-<text x="28" y="330" fill="#a6adb8">                              =+==+++=====++++**+++*****+++++++====                                 </text>
-<text x="1058" y="330" fill="#d19a66">Payments:</text>
-<text x="1148" y="330" fill="#555d68"> ........ </text>
-<text x="1248" y="330" fill="#8ab4f8">ISO 8583, EMV, HSM, ATM/POS, Reversal</text>
-<text x="28" y="352" fill="#a6adb8">                                =+=++++++++*#**+++*+++***+++++===                                   </text>
-<text x="1058" y="352" fill="#d19a66">Backend:</text>
-<text x="1138" y="352" fill="#555d68"> ............. </text>
-<text x="1288" y="352" fill="#8ab4f8">Spring Boot, Kafka, .NET, FastAPI</text>
-<text x="28" y="374" fill="#a6adb8">                                 +++++++++++++++++++++++*+++++==                                    </text>
-<text x="1058" y="374" fill="#d19a66">Frontend:</text>
-<text x="1148" y="374" fill="#555d68"> ................. </text>
-<text x="1338" y="374" fill="#8ab4f8">React, Next.js, Tailwind CSS</text>
-<text x="28" y="396" fill="#a6adb8">                                 =+++++++++++++++==++++++++++==                                     </text>
-<text x="1058" y="396" fill="#d19a66">Data:</text>
-<text x="1108" y="396" fill="#555d68"> ........ </text>
-<text x="1208" y="396" fill="#8ab4f8">Oracle, SQL Server, PostgreSQL, MongoDB</text>
-<text x="28" y="418" fill="#a6adb8">                                 +++******+++++++++*++++++++==                                      </text>
-<text x="28" y="440" fill="#a6adb8">                                ++++++**********+*********++=+                                      </text>
-<text x="28" y="462" fill="#a6adb8">                         =======+**+++++++***#########***+++++++=                                   </text>
-<text x="1058" y="462" fill="#a6adb8">- Contact ------------------------------------------------</text>
-<text x="28" y="484" fill="#a6adb8">                    ============++=++++++++++++++********+++**++++=-=                               </text>
-<text x="1058" y="484" fill="#d19a66">Email.Personal:</text>
-<text x="1208" y="484" fill="#555d68"> ............ </text>
-<text x="1348" y="484" fill="#8ab4f8">yahyasaadaoui2019@gmail.com</text>
-<text x="28" y="506" fill="#a6adb8">                 ==============+=====+++++++++++++++++++++++*#+=+++=-=========                      </text>
-<text x="1058" y="506" fill="#d19a66">LinkedIn:</text>
-<text x="1148" y="506" fill="#555d68"> ................ </text>
-<text x="1328" y="506" fill="#8ab4f8">linkedin.com/in/yahyasaadaoui</text>
-<text x="28" y="528" fill="#a6adb8">             ==========================+=++++=====+++++++******========-==========--====            </text>
-<text x="1058" y="528" fill="#d19a66">Portfolio:</text>
-<text x="1158" y="528" fill="#555d68"> .......................... </text>
-<text x="1438" y="528" fill="#8ab4f8">yahyasaadaoui.me</text>
-<text x="28" y="550" fill="#a6adb8">        =---============================================++++============================++==        </text>
-<text x="1058" y="550" fill="#d19a66">GitHub:</text>
-<text x="1128" y="550" fill="#555d68"> ...................... </text>
-<text x="1368" y="550" fill="#8ab4f8">github.com/YahyaSaadaoui</text>
-<text x="28" y="572" fill="#a6adb8">      ==-========================================+========+++++==========================++==       </text>
-<text x="28" y="594" fill="#a6adb8">    =-==============================================+==================================+=====--     </text>
-<text x="28" y="616" fill="#a6adb8">  =-===================================================================================++=====--    </text>
-<text x="1058" y="616" fill="#a6adb8">- GitHub / Work -------------------------------------------</text>
-<text x="28" y="638" fill="#a6adb8">=======================================================================================++=======--  </text>
-<text x="1058" y="638" fill="#d19a66">Focus:</text>
-<text x="1118" y="638" fill="#555d68"> ................ </text>
-<text x="1298" y="638" fill="#7ee787">Payments, operations, useful tools</text>
-<text x="28" y="660" fill="#a6adb8">=======================================================================================++=========- </text>
-<text x="1058" y="660" fill="#d19a66">Repos:</text>
-<text x="1118" y="660" fill="#555d68"> ............ </text>
-<text x="1258" y="660" fill="#8ab4f8">fintech products, full-stack systems</text>
-<text x="28" y="682" fill="#a6adb8">=======================================================================================+=====+====--</text>
-<text x="1058" y="682" fill="#d19a66">Current:</text>
-<text x="1138" y="682" fill="#555d68"> .... </text>
-<text x="1198" y="682" fill="#8ab4f8">authorization, reconciliation, observability</text>
-<text x="28" y="704" fill="#a6adb8">=============================+++==========================+=================================+=======</text>
-<text x="1058" y="704" fill="#d19a66">Builds:</text>
-<text x="1128" y="704" fill="#555d68"> .......... </text>
-<text x="1248" y="704" fill="#7ee787">clean architecture, automation, AI apps</text>
+<rect x="8" y="8" width="1996" height="854" rx="18" fill="none" stroke="#30363d" stroke-width="2"/>
+<style>text{font-family:Consolas,Menlo,Monaco,monospace;font-size:21px;white-space:pre}</style>
+<text x="34" y="53" fill="#a6adb8">                                         #%%%@@%%%%%#                                               </text>
+<text x="1270" y="53" fill="#a6adb8">yahya@github ----------------------------------------------</text>
+<text x="34" y="79" fill="#a6adb8">                                  %%%@@@@@@%@@@@@@@@@%@%%%%%                                        </text>
+<text x="1270" y="79" fill="#d19a66">OS:</text>
+<text x="1306" y="79" fill="#555d68"> ..................... </text>
+<text x="1582" y="79" fill="#8ab4f8">Windows 10, Android, Linux</text>
+<text x="34" y="105" fill="#a6adb8">                                 %%%@@@@@@%%%%%%%%%%%@@%%%%%%#                                      </text>
+<text x="1270" y="105" fill="#d19a66">Uptime:</text>
+<text x="1354" y="105" fill="#555d68"> .......................... </text>
+<text x="1690" y="105" fill="#8ab4f8">building since 2022</text>
+<text x="34" y="131" fill="#a6adb8">                              %%@@%@@@%%%%%%%%%%%%%%%%%%%%%%%%%%                                    </text>
+<text x="1270" y="131" fill="#d19a66">Host:</text>
+<text x="1330" y="131" fill="#555d68"> ............................. </text>
+<text x="1702" y="131" fill="#8ab4f8">HPS Technologies</text>
+<text x="34" y="157" fill="#a6adb8">                            %%%%%%*++=======================+#%%%%                                  </text>
+<text x="1270" y="157" fill="#d19a66">Kernel:</text>
+<text x="1354" y="157" fill="#555d68"> ................... </text>
+<text x="1606" y="157" fill="#8ab4f8">Implementation Engineer</text>
+<text x="34" y="183" fill="#a6adb8">                            %%%%%*+=========================+*#%%%                                  </text>
+<text x="1270" y="183" fill="#d19a66">IDE:</text>
+<text x="1318" y="183" fill="#555d68"> ................. </text>
+<text x="1546" y="183" fill="#8ab4f8">IntelliJ IDEA, VSCode, Cursor</text>
+<text x="34" y="209" fill="#a6adb8">                            %%###*+=======================++++**##                                  </text>
+<text x="34" y="235" fill="#a6adb8">                            ####*+++=======================+++++**                                  </text>
+<text x="34" y="261" fill="#a6adb8">                            *****###*+==+##%%#***#####****++**%%%#                                  </text>
+<text x="1270" y="261" fill="#d19a66">Languages.Programming:</text>
+<text x="1534" y="261" fill="#555d68"> .... </text>
+<text x="1606" y="261" fill="#8ab4f8">Java, Python, TypeScript, C#</text>
+<text x="34" y="287" fill="#a6adb8">                             -=##%#**##*%%#++*%+==*%#**##**#***%++++                                </text>
+<text x="1270" y="287" fill="#d19a66">Languages.Computer:</text>
+<text x="1498" y="287" fill="#555d68"> ........ </text>
+<text x="1618" y="287" fill="#8ab4f8">HTML, CSS, SQL, JSON, YAML</text>
+<text x="34" y="313" fill="#a6adb8">                            +++++*********+++**===+#*++++++++++*+=+                                 </text>
+<text x="1270" y="313" fill="#d19a66">Languages.Real:</text>
+<text x="1450" y="313" fill="#555d68"> ............ </text>
+<text x="1618" y="313" fill="#8ab4f8">Arabic, French, English</text>
+<text x="34" y="339" fill="#a6adb8">                             ++++++++*++++***+=====++*******+++===++                                </text>
+<text x="34" y="365" fill="#a6adb8">                              +===++=======++*##***##**+++++++=====                                 </text>
+<text x="34" y="391" fill="#a6adb8">                              =+==+++=====++++**+++*****+++++++====                                 </text>
+<text x="1270" y="391" fill="#d19a66">Payments:</text>
+<text x="1378" y="391" fill="#555d68"> ........ </text>
+<text x="1498" y="391" fill="#8ab4f8">ISO 8583, EMV, HSM, ATM/POS, Reversal</text>
+<text x="34" y="417" fill="#a6adb8">                                =+=++++++++*#**+++*+++***+++++===                                   </text>
+<text x="1270" y="417" fill="#d19a66">Backend:</text>
+<text x="1366" y="417" fill="#555d68"> ............. </text>
+<text x="1546" y="417" fill="#8ab4f8">Spring Boot, Kafka, .NET, FastAPI</text>
+<text x="34" y="443" fill="#a6adb8">                                 +++++++++++++++++++++++*+++++==                                    </text>
+<text x="1270" y="443" fill="#d19a66">Frontend:</text>
+<text x="1378" y="443" fill="#555d68"> ................. </text>
+<text x="1606" y="443" fill="#8ab4f8">React, Next.js, Tailwind CSS</text>
+<text x="34" y="469" fill="#a6adb8">                                 =+++++++++++++++==++++++++++==                                     </text>
+<text x="1270" y="469" fill="#d19a66">Data:</text>
+<text x="1330" y="469" fill="#555d68"> ........ </text>
+<text x="1450" y="469" fill="#8ab4f8">Oracle, SQL Server, PostgreSQL, MongoDB</text>
+<text x="34" y="495" fill="#a6adb8">                                 +++******+++++++++*++++++++==                                      </text>
+<text x="34" y="521" fill="#a6adb8">                                ++++++**********+*********++=+                                      </text>
+<text x="34" y="547" fill="#a6adb8">                         =======+**+++++++***#########***+++++++=                                   </text>
+<text x="1270" y="547" fill="#a6adb8">- Contact ------------------------------------------------</text>
+<text x="34" y="573" fill="#a6adb8">                    ============++=++++++++++++++********+++**++++=-=                               </text>
+<text x="1270" y="573" fill="#d19a66">Email.Personal:</text>
+<text x="1450" y="573" fill="#555d68"> ............ </text>
+<text x="1618" y="573" fill="#8ab4f8">yahyasaadaoui2019@gmail.com</text>
+<text x="34" y="599" fill="#a6adb8">                 ==============+=====+++++++++++++++++++++++*#+=+++=-=========                      </text>
+<text x="1270" y="599" fill="#d19a66">LinkedIn:</text>
+<text x="1378" y="599" fill="#555d68"> ................ </text>
+<text x="1594" y="599" fill="#8ab4f8">linkedin.com/in/yahyasaadaoui</text>
+<text x="34" y="625" fill="#a6adb8">             ==========================+=++++=====+++++++******========-==========--====            </text>
+<text x="1270" y="625" fill="#d19a66">Portfolio:</text>
+<text x="1390" y="625" fill="#555d68"> .......................... </text>
+<text x="1726" y="625" fill="#8ab4f8">yahyasaadaoui.me</text>
+<text x="34" y="651" fill="#a6adb8">        =---============================================++++============================++==        </text>
+<text x="1270" y="651" fill="#d19a66">GitHub:</text>
+<text x="1354" y="651" fill="#555d68"> ...................... </text>
+<text x="1642" y="651" fill="#8ab4f8">github.com/YahyaSaadaoui</text>
+<text x="34" y="677" fill="#a6adb8">      ==-========================================+========+++++==========================++==       </text>
+<text x="34" y="703" fill="#a6adb8">    =-==============================================+==================================+=====--     </text>
+<text x="34" y="729" fill="#a6adb8">  =-===================================================================================++=====--    </text>
+<text x="1270" y="729" fill="#a6adb8">- GitHub / Work -------------------------------------------</text>
+<text x="34" y="755" fill="#a6adb8">=======================================================================================++=======--  </text>
+<text x="1270" y="755" fill="#d19a66">Focus:</text>
+<text x="1342" y="755" fill="#555d68"> ................ </text>
+<text x="1558" y="755" fill="#7ee787">Payments, operations, useful tools</text>
+<text x="34" y="781" fill="#a6adb8">=======================================================================================++=========- </text>
+<text x="1270" y="781" fill="#d19a66">Repos:</text>
+<text x="1342" y="781" fill="#555d68"> ............ </text>
+<text x="1510" y="781" fill="#8ab4f8">fintech products, full-stack systems</text>
+<text x="34" y="807" fill="#a6adb8">=======================================================================================+=====+====--</text>
+<text x="1270" y="807" fill="#d19a66">Current:</text>
+<text x="1366" y="807" fill="#555d68"> .... </text>
+<text x="1438" y="807" fill="#8ab4f8">authorization, reconciliation, observability</text>
+<text x="34" y="833" fill="#a6adb8">=============================+++==========================+=================================+=======</text>
+<text x="1270" y="833" fill="#d19a66">Builds:</text>
+<text x="1354" y="833" fill="#555d68"> .......... </text>
+<text x="1498" y="833" fill="#7ee787">clean architecture, automation, AI apps</text>
 </svg>
