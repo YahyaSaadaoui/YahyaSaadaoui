@@ -22,32 +22,26 @@
 
 ## About
 
-I build reliable software for payment operations and transaction processing. My day-to-day work spans switch platforms, backend services, integration flows, databases, containers, and observability. Outside work, I build focused fintech and full-stack products with clean architecture and practical user interfaces.
-
-`Casablanca, Morocco` `Fintech` `Distributed systems` `Product engineering`
-
----
+I’m an Implementation Engineer at HPS in Casablanca. I work on PowerCARD payment switching, Oracle PL/SQL, change data capture, and Kafka integrations across issuer and acquirer systems. I also build full-stack applications and AI developer tools.
 
 ## Current Work
 
-- Payment authorization, reversal, reconciliation, ATM/POS, ISO 8583, EMV, and HSM-related flows.
-- Java and Spring Boot services with Kafka, Gradle, SQL/Oracle, Docker, Kubernetes, and Linux.
-- Internal tooling, monitoring, integration testing, and operational automation.
-- Side projects with React, Next.js, TypeScript, .NET, EF Core, SQL Server, and AI integrations.
-
----
+- Develop and troubleshoot C and Pro*C switch integrations across ATM and POS authorization, reversals, advice, and host messaging.
+- Implement Oracle CDC and transactional outbox flows, align Kafka and Avro contracts, and prepare rerunnable migration and recovery scripts.
+- Support payment security flows involving HSM integration, TR-31 key blocks, PIN processing, and MAC validation.
+- Work across Java and Spring integrations, card-management APIs, merchant settlement, and reconciliation.
 
 ## Stack
 
 | Area | Technologies |
 | --- | --- |
-| Payments | ISO 8583, authorization, reversal, reconciliation, ATM/POS, EMV, HSM flows |
-| Backend | Java, Spring Boot, Gradle, Kafka, REST APIs, microservices, .NET 9, EF Core, CQRS |
-| Frontend | TypeScript, React, Next.js, Vite, Tailwind CSS, Radix UI, shadcn/ui |
-| Data | Oracle, SQL Server, PostgreSQL, MySQL, MongoDB |
-| Platform | Docker, Kubernetes, Linux, GitHub Actions, Jenkins, SonarQube, Nexus |
-| Observability | Prometheus, Grafana, structured logging, service health checks |
-| AI | OpenAI APIs, AI SDK, agentic interfaces, workflow automation |
+| Payments &amp; Switching | PowerCARD, ISO 8583, BASE24, ATM / POS, Issuer & Acquirer Processing, Authorization & Reversals, Settlement & Reconciliation, Visa / Mastercard Integration |
+| Database &amp; Event Streaming | Oracle SQL, PL/SQL, Oracle GoldenGate, CDC & Transactional Outbox, Apache Kafka, librdkafka, Avro, Schema Migrations |
+| Payment Security | HSM Integration, TR-31 Key Blocks, PIN Processing, MAC Validation, mTLS / MLE, SASL / Kerberos |
+| Backend &amp; Integration | C / Pro*C, Java, Spring Boot / Integration, REST APIs, Python / FastAPI, C# / ASP.NET Core, EF Core |
+| Web &amp; Full Stack | TypeScript, React, Next.js, Angular, Tailwind CSS, Supabase, PostgreSQL, VS Code Extension API |
+| AI &amp; Developer Tools | Vercel AI SDK, OpenAI APIs, Agent Workflows, Mastra, MCP, RAG, Langfuse, SQLite |
+| Delivery &amp; Testing | Git, Linux / Unix, Docker, Jenkins, GitHub Actions, CMake, Gradle / Maven, JUnit / Spock, Protocol Simulators |
 
 ### AI Projects Tech Stack
 
@@ -73,11 +67,13 @@ I build reliable software for payment operations and transaction processing. My 
 
 | Project | Scope | Stack |
 | --- | --- | --- |
-| [monetic-ai-reversal](https://github.com/YahyaSaadaoui/monetic-ai-reversal) | Reversal eligibility, rules, batch processing, and audit trails | Python, FastAPI, React |
-| [monetic-ai-reconciliation](https://github.com/YahyaSaadaoui/monetic-ai-reconciliation) | Payment reconciliation and exception handling | Python, FastAPI, React |
-| [issue-tracking-system](https://github.com/YahyaSaadaoui/issue-tracking-system) | Clean Architecture issue and workflow tracking | .NET 9, CQRS, React |
-| [ExpensesTracker](https://github.com/YahyaSaadaoui/ExpensesTracker) | Personal finance, reporting, import/export, and charts | Next.js, Supabase |
-| [Nettimer](https://github.com/YahyaSaadaoui/Nettimer) | Scheduled extraction, processing, notifications, and desktop data | Python, Playwright |
+| [Monetic AI Reversal](https://github.com/YahyaSaadaoui/monetic-ai-reversal) | Payment reversal eligibility, rules, batch processing and audit trails. | Python, FastAPI, React |
+| [Monetic AI Reconciliation](https://github.com/YahyaSaadaoui/monetic-ai-reconciliation) | Payment reconciliation and exception handling. | Python, FastAPI, React |
+| [OmniMemory](https://github.com/YahyaSaadaoui/OmniMemory) | VS Code extension that captures engineering context from conversations and Git, generates structured memory cards and indexes them locally. | TypeScript, VS Code Extension API, SQLite, OpenAI APIs |
+| [IssueDesk](https://github.com/YahyaSaadaoui/issue-tracking-system) | Issue lifecycle management with a Clean Architecture API, CQRS, and a React interface. | ASP.NET Core 9, EF Core, SQL Server, React, TypeScript |
+| [ExpensesTracker](https://github.com/YahyaSaadaoui/ExpensesTracker) | Personal finance dashboard with transaction tracking, reporting, charts and spreadsheet import and export. | Next.js, React, TypeScript, Supabase, Recharts |
+| [Agentic AI Frontend](https://github.com/YahyaSaadaoui/AgenticAiFrontEnd) | Chat interface prototype for AI-powered applications. | Next.js, React, Vercel AI SDK, OpenAI APIs |
+| [Nettimer](https://github.com/YahyaSaadaoui/Nettimer) | Automation project for scheduled extraction, processing and notifications. | Python, Playwright |
 
 ---
 
