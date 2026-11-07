@@ -49,6 +49,8 @@ I build reliable software for payment operations and transaction processing. My 
 | Observability | Prometheus, Grafana, structured logging, service health checks |
 | AI | OpenAI APIs, AI SDK, agentic interfaces, workflow automation |
 
+[My Tech Stack](https://github.com/YahyaSaadaoui/my-tech-stach) — technology inventory for `dev-devison` and `consulting-agency`.
+
 ---
 
 ## Selected Work
