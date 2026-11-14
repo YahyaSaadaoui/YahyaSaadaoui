@@ -79,7 +79,12 @@ I’m an Implementation Engineer at HPS in Casablanca. I work on PowerCARD payme
 
 ## GitHub activity
 
-[View my GitHub contribution graph](https://github.com/YahyaSaadaoui#contribution-activity)
+<a href="https://github.com/YahyaSaadaoui#contribution-activity">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YahyaSaadaoui&amp;days=31&amp;area=true&amp;hide_title=true&amp;radius=8&amp;theme=github-compact" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YahyaSaadaoui&amp;days=31&amp;area=true&amp;hide_title=true&amp;radius=8&amp;bg_color=ffffff&amp;color=24292f&amp;line=1a7f37&amp;point=1a7f37&amp;area_color=2da44e&amp;border_color=d0d7de" width="100%" alt="GitHub contributions over the last 31 days" />
+  </picture>
+</a>
 
 ---
 
